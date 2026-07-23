@@ -1,0 +1,13 @@
+# Core ML
+tensorflow
+tensorflow-datasets
+
+# Image processing
+Pillow
+numpy
+
+# Visualisation
+matplotlib
+
+# Web app (optional)
+gradio
